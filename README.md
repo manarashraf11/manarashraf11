@@ -14,7 +14,7 @@
 
 
 
-<h4 align="center">I am a Systems and biomedical engineering student at Cairo university who intersted in Machine learning and Software Engineering.</h4>
+<h4 align="center">I am a Systems and biomedical engineering student at Cairo university who interested in Machine learning and Software Engineering.</h4>
 <br>
 
 <p align="center">Connect with me on
